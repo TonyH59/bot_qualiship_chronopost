@@ -4,6 +4,7 @@
   "description": "Bot pour QualiShip avec Chronopost",
   "dependencies": {
     "dotenv": "^16.4.5",
+    "mssql": "^11.0.1",
     "nodemailer": "^6.9.15",
     "puppeteer": "^23.3.1",
     "ssh2-sftp-client": "^11.0.0",
